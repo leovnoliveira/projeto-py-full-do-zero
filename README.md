@@ -1,5 +1,7 @@
 # Guia para Criação e Estruturação de Projetos Python do Zero
 
+![Status](https://img.shields.io/badge/Status-Desenvolvimento-orange)
+
 Workshop da Jornada de Dados
 
 <p align="center">
