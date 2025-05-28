@@ -2,6 +2,11 @@
 
 Workshop da Jornada de Dados
 
+<p align="center">
+    <img src="image/logo.png" alt="Logo do Projeto" width="200"/>
+</p>
+
+
 ## Sobre
 
 Este repositório apresenta um guia prático para criar e estruturar projetos Python do zero, seguindo boas práticas de organização, versionamento e colaboração.
