@@ -1,0 +1,54 @@
+# Ambiente virtual
+.venv/
+env/
+ENV/
+venv/
+pip-wheel-metadata/
+
+# Arquivos de ambiente
+.env
+.env.*
+
+# VSCode settings
+.vscode/
+
+# Pyenv
+.python-version
+
+# Uv
+.uv/
+
+# Poetry
+poetry.lock
+poetry.toml
+
+# Bytecode Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Arquivos de log e cache
+*.log
+*.pot
+*.pyc
+*.pyo
+.cache/
+.mypy_cache/
+.pytest_cache/
+.coverage
+.tox/
+.dmypy.json
+.pyre/
+.pytype/
+
+# Distribuição
+build/
+dist/
+*.egg-info/
+.eggs/
+MANIFEST
+
+# Outros
+.DS_Store
+Thumbs.db
+.idea/
