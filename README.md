@@ -46,11 +46,11 @@ projeto-py-full-do-zero/
         3. Instale a versão desejada do Python:
             ```bash
                  pyenv install 3.11
-                 ```
-             4. Defina a versão local do projeto:
-                 ```bash
-                 pyenv local 3.11
-                 ```
+            ```
+        4. Defina a versão local do projeto:
+            ```bash
+                pyenv local 3.11
+            ```
 
         - **Com Poetry (recomendado para projetos colaborativos):**
             1. Instale o pipx (caso ainda não tenha):
@@ -74,7 +74,7 @@ projeto-py-full-do-zero/
              ```bash
              poetry env activate
              ```
-            ```
+            
 
     - **Com uv (alternativa rápida para projetos pessoais):**
         1. Instale o uv:
